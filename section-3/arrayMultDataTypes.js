@@ -6,3 +6,5 @@
 
 
 // Solution:
+
+let description = ["Hannah", 22,  true];
